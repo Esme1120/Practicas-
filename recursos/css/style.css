@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+nav a{
+    padding: 3px;
+    margin: 3px;
+    text-decoration: none;
+    font-size: 1.3em;
+    color: white;
+    /* float: right; */
+    
+}
+
+.b{
+    margin-left: 40%;
+    background-color: #9048e2;
+     /* opacity: 0.5;  */
+    text-align: center;
+    width: 20%;
+    height: 20%;
+}
+ 
+li{
+    display:inline-block;
+}
+li :hover{
+    color: black;
+}
+
+body{
+    background-color: rgb(230, 215, 255);
+}
+
+h1{
+    text-align: center;
+    color: #711dd1;
+    font-size: 2.5em;
+    margin: 3%;
+}
+
